@@ -25,3 +25,8 @@ img {
   max-width: 100%;
   display: block;
 }
+
+.container {
+  padding-top: 100px;
+  text-align: center;
+}
